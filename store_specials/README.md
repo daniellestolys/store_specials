@@ -1,6 +1,6 @@
 # Stolys Candy Store Specials Manager
 
-PHP/MySQL CRUS app for candy store specials
+PHP/MySQL CRUD app for candy store specials
 
 ##  Live Demo
 stolys85.infinityfree.me/store_site/index.php
@@ -20,4 +20,5 @@ stolys85.infinityfree.me/store_site/index.php
 - MySQL (specials table)
 - HTML/CSS/JS
 - Deployed : InfinityFree
+
 
